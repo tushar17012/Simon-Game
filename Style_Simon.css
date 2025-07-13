@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn {
+  height: 200px;
+  width: 200px;
+  margin: 2.5rem;
+  border-radius: 20%;
+  border: 10px solid black;
+}
+
+.red {
+  background-color: #d95980;
+}
+
+.blue {
+  background-color: #819ff9;
+}
+
+.green {
+  background-color: #63aac0;
+}
+
+.yellow {
+  background-color: #f99b45;
+}
+.flash {
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.game-over {
+  background-color: red;
+}
+
+.game-next-level{
+  background-color: green;
+}
