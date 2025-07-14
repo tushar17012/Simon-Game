@@ -1,5 +1,4 @@
 # Simon-Game
-Simon Game
 Overview
 The Simon Game is a memory game that challenges players to repeat a sequence of
 colors. The game starts with a simple sequence and increases in complexity as the player
